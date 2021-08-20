@@ -86,7 +86,7 @@ export default {
 }
 .q-drawer {
   .q-router-link--exact-active {
-    color: white !important;
+    color: black !important;
   }
 }
 </style>
